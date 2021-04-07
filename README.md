@@ -56,3 +56,6 @@
 21. Movie DB
 22. Hacker News
 23. Quiz
+
+## Testing new shell (macOS - zsh)
+1. Hello ZSH
